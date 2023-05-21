@@ -16,7 +16,7 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT at the Depart
 To enter the department, I was implementing and researching a color correction algorithm using root polynomial regression (according to the article https://doi.org/10.1109/TIP.2015.2405336).  You can see it in [this](https://github.com/yavnolib/root_polynomial_color_correction) repository.
 
 At the moment, together with the team, we participated in the following hackathons:
-* Joint hackathon Sberbank and MFTI - :2nd_place_medal: 2nd place. (2023) - [repository](https://github.com/yavnolib/SberFraudDetection)
+* Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (2023) - [repository](https://github.com/yavnolib/SberFraudDetection)
 * Цифровой прорыв - :ballot_box_with_check: participant. (2022)
 * DigitalStart (Python) - 🥇 Grand Prix. (2020)
 * The first hackathon to create educational applications - :trophy: prize-winner. (2020)
