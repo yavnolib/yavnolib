@@ -14,7 +14,7 @@
 My name is Nikolaev Yaroslav and I'm a second-year student of MIPT. At the moment, together with the team, we participated in the following hackathons:
 * Joint hackathon Sberbank and MFTI - :2nd_place_medal: 2nd place. (2023)
 * Цифровой прорыв - :ballot_box_with_check: participant. (2022)
-* DigitalStart (Python) - :medal_sports: Grand Prix. (2020)
+* DigitalStart (Python) - 🥇 Grand Prix. (2020)
 * The first hackathon to create educational applications - :trophy: prize-winner. (2020)
 
 To view my awards, please follow the [link](https://github.com/yavnolib/yavnolib/tree/main/diploma).
