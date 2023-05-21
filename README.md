@@ -76,17 +76,15 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 <!-- [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/yavnolib) -->
 <!-- [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/yavnolib) -->
 <!-- [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/yavnolib) -->
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yavnolib)
 [![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/yavnolib)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/yavnolib)
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/yavnolib)
 [![Stm32](https://img.shields.io/badge/stm32-black?style=for-the-badge&logo=stm32)](https://github.com/yavnolib)
+
 [![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/yavnolib)
-[![MQTT](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)](https://github.com/yavnolib)
+[![MQTT](https://img.shields.io/badge/MQTT-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)](https://github.com/yavnolib)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/yavnolib)
-
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yavnolib)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavnolib)
-
 
 ### :writing_hand: Contacts :
 [![Vk](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/yarik_tat)   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/behette_shashlykta)    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavnolib)      
