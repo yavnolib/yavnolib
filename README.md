@@ -17,11 +17,11 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/yavnolib)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/yavnolib)
+[![SQL](https://img.shields.io/badge/sql-yellow?style=for-the-badge&logo=mysql)](https://github.com/yavnolib)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/yavnolib)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/yavnolib)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/yavnolib)
-[![ASSEMBLY](https://img.shields.io/badge/asm-black?style=for-the-badge&logo=asm)](https://github.com/yavnolib)
+[![ASSEMBLY](https://img.shields.io/badge/asm-red?style=for-the-badge&logo=asm)](https://github.com/yavnolib)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/yavnolib)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/yavnolib)
 
