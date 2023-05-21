@@ -14,45 +14,78 @@
 My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/yavnolib)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/yavnolib)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/yavnolib)
-[![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgres)](https://github.com/yavnolib)
-
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/yavnolib)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/yavnolib)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/yavnolib)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/yavnolib)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/yavnolib)
 [![ASSEMBLY](https://img.shields.io/badge/asm-black?style=for-the-badge&logo=asm)](https://github.com/yavnolib)
-[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/yavnolib)
-[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/yavnolib)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/yavnolib)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/yavnolib)
 
-### ML
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/yavnolib)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/yavnolib)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/yavnolib)
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/yavnolib)
-[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/yavnolib)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=image%2Fpng%3Bbase64%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)](https://github.com/yavnolib)
+### ML/DL
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/yavnolib)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/yavnolib)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/yavnolib)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/yavnolib)
+[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://github.com/yavnolib)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/yavnolib)
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/yavnolib)
 [![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/yavnolib)
-[![Selenium](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)](https://github.com/yavnolib)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/yavnolib)
 [![BeautifulSoup](https://img.shields.io/badge/bs4-black?style=for-the-badge&logo=bs4)](https://github.com/yavnolib)
 [![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/yavnolib)
-[![Jupyter-notebook](https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter)](https://github.com/yavnolib)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/yavnolib)
 [![transformers](https://img.shields.io/badge/transformers-black?style=for-the-badge&logo=transformers)](https://github.com/yavnolib)
 
+### Frameworks, Platforms and Libraries
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/yavnolib)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/yavnolib)
 
+### Databases
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/yavnolib)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://github.com/yavnolib)
 
+### Hosting
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+### IDEs
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/yavnolib)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/yavnolib)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/yavnolib)
+[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/yavnolib)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://github.com/yavnolib)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/yavnolib)
+
+<!-- ### Servers
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/yavnolib) -->
 
 ### Other
-[![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://github.com/yavnolib)
-[![Raspberry-Pi](https://img.shields.io/badge/RPi-black?style=for-the-badge&logo=RPi)](https://github.com/yavnolib)
+<!-- [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/yavnolib) -->
+<!-- [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/yavnolib) -->
+<!-- [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/yavnolib) -->
+[![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/yavnolib)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/yavnolib)
+[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/yavnolib)
 [![Stm32](https://img.shields.io/badge/stm32-black?style=for-the-badge&logo=stm32)](https://github.com/yavnolib)
+[![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/yavnolib)
+[![MQTT](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)](https://github.com/yavnolib)
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/yavnolib)
+
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yavnolib)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavnolib)
+
 
 ### :writing_hand: Contacts :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yavnolib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/behette_shashlykta)  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavnolib)    
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/behette_shashlykta)  
 
 <!--
 **yavnolib/yavnolib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
