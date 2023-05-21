@@ -38,9 +38,12 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/yavnolib)
 [![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/yavnolib)
 
+### Parsing
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/yavnolib)
-[![BeautifulSoup](https://img.shields.io/badge/bs4-black?style=for-the-badge&logo=bs4)](https://github.com/yavnolib)
-[![requests](https://img.shields.io/badge/requests-black?style=for-the-badge&logo=requests)](https://github.com/yavnolib)
+[![BeautifulSoup](https://img.shields.io/badge/bs4-gray?style=for-the-badge&logo=bs4)](https://github.com/yavnolib)
+[![requests](https://img.shields.io/badge/requests-blue?style=for-the-badge&logo=requests)](https://github.com/yavnolib)
+[![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/yavnolib)
+
 
 ### OS
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/yavnolib)
@@ -76,7 +79,6 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 <!-- [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/yavnolib) -->
 <!-- [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/yavnolib) -->
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yavnolib)
-[![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/yavnolib)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/yavnolib)
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/yavnolib)
 [![Stm32](https://img.shields.io/badge/stm32-black?style=for-the-badge&logo=stm32)](https://github.com/yavnolib)
