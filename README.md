@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 My name is Nikolaev Yaroslav and I'm a second-year student of MIPT. At the moment, together with the team, we participated in the following hackathons:
-* Joint hackathon Sberbank and MFTI - :2nd_place_medal: 2nd place. (2023)
+* Joint hackathon Sberbank and MFTI - :2nd_place_medal: 2nd place. (2023) - [repository](https://github.com/yavnolib/SberFraudDetection)
 * Цифровой прорыв - :ballot_box_with_check: participant. (2022)
 * DigitalStart (Python) - 🥇 Grand Prix. (2020)
 * The first hackathon to create educational applications - :trophy: prize-winner. (2020)
