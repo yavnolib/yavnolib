@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
-[![yavnolib's github stats](https://github-readme-stats.vercel.app/api?username=yavnolib&show_icons=true&theme=cobalt)](https://github.com/yavnolib?tab=repositories)
+<!-- [![yavnolib's github stats](https://github-readme-stats.vercel.app/api?username=yavnolib&show_icons=true&theme=cobalt)](https://github.com/yavnolib?tab=repositories) -->
 
 
 ### Languages
