@@ -12,6 +12,8 @@
 
 ### :man_technologist: About Me :
 My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
+[![yavnolib's github stats](https://github-readme-stats.vercel.app/api?username=yavnolib&show_icons=true&theme=cobalt)](https://github.com/yavnolib?tab=repositories)
+
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/yavnolib)
@@ -84,7 +86,7 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 
 
 ### :writing_hand: Contacts :
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavnolib)    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/behette_shashlykta)  
+[![Vk](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/yarik_tat)   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/behette_shashlykta)    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavnolib)      
 
 <!--
 **yavnolib/yavnolib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
