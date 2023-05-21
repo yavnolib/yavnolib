@@ -31,12 +31,12 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/yavnolib)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/yavnolib)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://github.com/yavnolib)
-[![transformers](https://img.shields.io/badge/transformers-black?style=for-the-badge&logo=transformers)](https://github.com/yavnolib)
+[![transformers](https://img.shields.io/badge/transformers-yellow?style=for-the-badge&logo=transformers)](https://github.com/yavnolib)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/yavnolib)
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/yavnolib)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/yavnolib)
-[![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/yavnolib)
+[![Seaborn](https://img.shields.io/badge/Seaborn-red?style=for-the-badge&logo=seaborn)](https://github.com/yavnolib)
 
 ### Parsing
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/yavnolib)
