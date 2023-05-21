@@ -15,13 +15,15 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/yavnolib)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/yavnolib)
+[![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgres)](https://github.com/yavnolib)
+
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/yavnolib)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/yavnolib)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/yavnolib)
 [![ASSEMBLY](https://img.shields.io/badge/asm-black?style=for-the-badge&logo=asm)](https://github.com/yavnolib)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/yavnolib)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/yavnolib)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/yavnolib)
 
 ### ML
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/yavnolib)
