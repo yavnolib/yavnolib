@@ -16,6 +16,7 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT. At the momen
 * Цифровой прорыв - participant (2022)
 * DigitalStart (Python) - Grand Prix. (2020)
 * The first hackathon to create educational applications - prize-winner (2020)
+
 To view the awards, please follow the [link](https://github.com/yavnolib/yavnolib/tree/main/diploma).
 <!-- [![yavnolib's github stats](https://github-readme-stats.vercel.app/api?username=yavnolib&show_icons=true&theme=cobalt)](https://github.com/yavnolib?tab=repositories) -->
 
