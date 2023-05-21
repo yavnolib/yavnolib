@@ -18,7 +18,7 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/yavnolib)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/yavnolib)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/yavnolib)
-[![Asm](https://img.shields.io/badge/asm-black?style=for-the-badge&logo=asm&logoColor=white)](https://github.com/yavnolib)
+[![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)](https://github.com/yavnolib)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/yavnolib)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/yavnolib)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/yavnolib)
