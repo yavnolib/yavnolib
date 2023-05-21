@@ -11,7 +11,11 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
+My name is Nikolaev Yaroslav and I'm a second-year student of MIPT. At the moment, together with the team, we participated in the following hackathons:
+* Joint hackathon Sberbank and MFTI - 2nd place.
+* DigitalStart (Python) - Grand Prix.
+* The first hackathon to create educational applications - prize-winner
+* Цифровой прорыв - participant
 <!-- [![yavnolib's github stats](https://github-readme-stats.vercel.app/api?username=yavnolib&show_icons=true&theme=cobalt)](https://github.com/yavnolib?tab=repositories) -->
 
 
