@@ -35,6 +35,7 @@ My name is Nikolaev Yaroslav and I'm a second-year student of MIPT.
 [![BeautifulSoup](https://img.shields.io/badge/bs4-black?style=for-the-badge&logo=bs4)](https://github.com/yavnolib)
 [![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/yavnolib)
 [![Jupyter-notebook](https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter)](https://github.com/yavnolib)
+[![transformers](https://img.shields.io/badge/transformers-black?style=for-the-badge&logo=transformers)](https://github.com/yavnolib)
 
 
 
