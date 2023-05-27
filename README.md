@@ -100,7 +100,7 @@ To view my awards, please follow the [link](https://github.com/yavnolib/yavnolib
 ### :writing_hand: Contacts :
 [![Vk](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/yarik_tat)   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/behette_shashlykta)    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavnolib)      
 
-![](https://komarev.com/ghpvc/?username=yavnolib)
+![since 28.05.2023](https://komarev.com/ghpvc/?username=yavnolib)
 <!--
 **yavnolib/yavnolib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
