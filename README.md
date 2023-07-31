@@ -47,8 +47,8 @@ To view my awards, please follow the [link](https://github.com/yavnolib/yavnolib
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/yavnolib)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/yavnolib)
 [![Seaborn](https://img.shields.io/badge/Seaborn-red?style=for-the-badge&logo=seaborn)](https://github.com/yavnolib)
-[![CV2](https://img.shields.io/badge/CV2-yellow?style=for-the-badge&logo=OpenCV)](https://github.com/yavnolib)
-[![PIL](https://img.shields.io/badge/Pillow-red?style=for-the-badge&logo=Pillow)](https://github.com/yavnolib)
+[![CV2](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/yavnolib)
+
 
 
 
