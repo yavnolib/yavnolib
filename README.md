@@ -11,15 +11,21 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Nikolaev Yaroslav and I'm a third-year student of MIPT at the Department of Problems of Information Transmission and Data Analysis. My average score in mathematical disciplines is 8.8/10, in CS disciplines - is 10/10.
+My name is Nikolaev Yaroslav and I'm a third-year student of MIPT at the Department of Problems of Information Transmission and Data Analysis. My average GPA in mathematical disciplines is 8.8/10, in CS disciplines - is 10/10.
 
 To enter the department, I was implementing and researching a color correction algorithm using root polynomial regression (according to the article https://doi.org/10.1109/TIP.2015.2405336).  You can see it in [this](https://github.com/yavnolib/root_polynomial_color_correction) repository.
 
+Also in my department I researched image segmantation and binarization. This repo is https://github.com/yavnolib/granulometry.
+
+ 
+
 At the moment, together with the team, we participated in the following hackathons:
-* Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (2023) - [repository](https://github.com/yavnolib/SberFraudDetection)
-* Цифровой прорыв - :ballot_box_with_check: participant. (2022)
-* DigitalStart (Python) - 🥇 Grand Prix. (2020)
-* The first hackathon to create educational applications - :trophy: prize-winner. (2020)
+* (ML) Leaders of Digital (Цифровой прорыв) - :2nd_place_medal: 2nd place. (autumn 2023) - Processing citizens' appeals (backend + frontend + NER model + three classification models (F1-weighted score is 0.68, best - 0.73)) - [repository](https://github.com/renshs/DeepPick-Flask)
+* (ML) Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (autumn 2023) - Image segmentation - repository is private
+* (ML) Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (spring 2023) - Audio fraud detection - [repository](https://github.com/yavnolib/SberFraudDetection)
+* (ML) Цифровой прорыв - :ballot_box_with_check: participant. (2022)
+* (Python development) DigitalStart (Python) - 🥇 Grand Prix. (2020)
+* (AR/VR development) The first hackathon to create educational applications - :trophy: prize-winner. (2020)
 
 To view my awards, please follow the [link](https://github.com/yavnolib/yavnolib/tree/main/diploma).
 <!-- [![yavnolib's github stats](https://github-readme-stats.vercel.app/api?username=yavnolib&show_icons=true&theme=cobalt)](https://github.com/yavnolib?tab=repositories) -->
