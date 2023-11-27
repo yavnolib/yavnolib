@@ -20,10 +20,10 @@ Also in my department I researched image segmantation and binarization. This rep
  
 
 At the moment, together with the team, we participated in the following hackathons:
-* (ML) Leaders of Digital (Цифровой прорыв) - :2nd_place_medal: 2nd place. (autumn 2023) - Processing citizens' appeals (backend + frontend + NER model + three classification models (F1-weighted score is 0.68, best - 0.73)) - [repository](https://github.com/renshs/DeepPick-Flask)
+* (ML) Leaders of Digital International competition (Цифровой прорыв.Международный этап) - :2nd_place_medal: 2nd place. (autumn 2023) - Processing citizens' appeals (backend + frontend + NER model + three classification models (F1-weighted score is 0.68, best - 0.73)) - [repository](https://github.com/renshs/DeepPick-Flask)
 * (ML) Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (autumn 2023) - Image segmentation - repository is private
 * (ML) Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (spring 2023) - Fraudulent audio detection - [repository](https://github.com/yavnolib/SberFraudDetection)
-* (ML) Цифровой прорыв - :ballot_box_with_check: participant. (2022)
+* (ML) Цифровой прорыв окружной хакатон - :ballot_box_with_check: participant. (2022)
 * (Python development) DigitalStart (Python) - 🥇 Grand Prix. (2020)
 * (AR/VR development) The first hackathon to create educational applications - :trophy: prize-winner. (2020)
 
