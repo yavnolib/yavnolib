@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Nikolaev Yaroslav and I'm a fourth-year student of MIPT. Also I currently work at Sberbank as a CV engineer.
+My name is Nikolaev Yaroslav and I'm a fourth-year student of MIPT. Currently, I work at Sberbank as a CV engineer and try to develop in project activities, participating with my team in various hackathons.
 
 At the moment, together with the team, we participated in the following hackathons:
 * (ML) Leaders of Digital International competition (Цифровой прорыв.Международный этап) - :2nd_place_medal: 2nd place. (autumn 2023) - Processing citizens' appeals (backend + frontend + NER model + three classification models (F1-weighted score is 0.68, best - 0.73)) - [repository](https://github.com/renshs/DeepPick-Flask)
