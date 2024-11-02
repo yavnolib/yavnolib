@@ -11,13 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Nikolaev Yaroslav and I'm a third-year student of MIPT at the Department of Problems of Information Transmission and Data Analysis. My GPA in mathematical disciplines is 8.8/10, in CS disciplines - is 10/10.
-
-To enter the department, I was implementing and researching a color correction algorithm using root polynomial regression (according to the article https://doi.org/10.1109/TIP.2015.2405336).  You can see it in [this](https://github.com/yavnolib/root_polynomial_color_correction) repository.
-
-Also in my department I researched image segmantation and binarization. This repo is https://github.com/yavnolib/granulometry.
-
- 
+My name is Nikolaev Yaroslav and I'm a fourth-year student of MIPT.
 
 At the moment, together with the team, we participated in the following hackathons:
 * (ML) Leaders of Digital International competition (Цифровой прорыв.Международный этап) - :2nd_place_medal: 2nd place. (autumn 2023) - Processing citizens' appeals (backend + frontend + NER model + three classification models (F1-weighted score is 0.68, best - 0.73)) - [repository](https://github.com/renshs/DeepPick-Flask)
