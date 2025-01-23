@@ -20,6 +20,9 @@ At the moment, together with the team, we participated in the following hackatho
 * (Python development) DigitalStart (Python) - 🥇 Grand Prix. (2020)
 * (AR/VR development) The first hackathon to create educational applications - :trophy: prize-winner. (2020)
 
+**Additional education:**
+I also graduated with honors from the Avito Analytics Academy in the field of DS engineer, the advanced training program "Fundamentals of Databases and SQL Queries" from FEFU and the professional retraining program "Advanced Machine Learning Methods" from MIPT.
+
 To view my awards, please follow the [link](https://github.com/yavnolib/yavnolib/tree/main).
 <!-- [![yavnolib's github stats](https://github-readme-stats.vercel.app/api?username=yavnolib&show_icons=true&theme=cobalt)](https://github.com/yavnolib?tab=repositories) -->
 
