@@ -11,10 +11,11 @@
 My name is Nikolaev Yaroslav and I'm a fourth-year student of MIPT. Currently, I work at Sberbank as a CV engineer and try to develop in project activities, participating with my team in various hackathons.
 
 At the moment, together with the team, we participated in the following hackathons:
-* (ML) Digital Department Hackathon (MIPT) - :3rd_place_medal: 3rd place. (autumn 2024) - Parsing + cluserization.
-* (ML) Leaders of Digital International competition (Цифровой прорыв.Международный этап) - :2nd_place_medal: 2nd place. (autumn 2023) - Processing citizens' appeals (backend + frontend + NER model + three classification models (F1-weighted score is 0.68, best - 0.73)) - [repository](https://github.com/renshs/DeepPick-Flask)
-* (ML) Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (autumn 2023) - Image segmentation - repository is private
-* (ML) Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (spring 2023) - Fraudulent audio detection - [repository](https://github.com/yavnolib/SberFraudDetection)
+* (ML) Digital Department Hackathon (MIPT) - :3rd_place_medal: 3rd place. (Autumn 2024) - Parsing + cluserization.
+* (ML) TatneftHack (August 2024) - participant - Detection, clustering, tracking and identification by video
+* (ML) Leaders of Digital International competition (Цифровой прорыв.Международный этап) - :2nd_place_medal: 2nd place. (Autumn 2023) - Processing citizens' appeals (backend + frontend + NER model + three classification models (F1-weighted score is 0.68, best - 0.73)) - [repository](https://github.com/renshs/DeepPick-Flask)
+* (ML) Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (Autumn 2023) - Image segmentation - repository is private
+* (ML) Joint hackathon Sberbank and MIPT - :2nd_place_medal: 2nd place. (Spring 2023) - Fraudulent audio detection - [repository](https://github.com/yavnolib/SberFraudDetection)
 * (ML) Цифровой прорыв окружной хакатон - :ballot_box_with_check: participant. (2022)
 * (Python development) DigitalStart (Python) - 🥇 Grand Prix. (2020)
 * (AR/VR development) The first hackathon to create educational applications - :trophy: prize-winner. (2020)
