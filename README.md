@@ -8,7 +8,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Nikolaev Yaroslav and I'm a fourth-year student of MIPT. Currently, I work at Sberbank as a CV engineer and try to develop in project activities, participating with my team in various hackathons.
+My name is Nikolaev Yaroslav and I'm a fourth-year student of MIPT. Currently, I work at the company collaborating with a department at the institute as a CV engineer and try to develop in project activities, participating with my team in various hackathons.
 
 At the moment, together with the team, we participated in the following hackathons:
 * (ML) Digital Department Hackathon (MIPT) - :3rd_place_medal: 3rd place. (Autumn 2024) - Parsing + cluserization.
