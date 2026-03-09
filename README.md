@@ -11,6 +11,7 @@
 My name is Nikolaev Yaroslav, and I graduated from MIPT. I worked as a Middle Engineer in Computer Vision, Machine Learning, and Deep Learning. I actively developed in project-based activities, participating with my team in various hackathons. Recently, I have primarily been acting as a mentor at hackathons, providing technical guidance and supporting teams in project development.
 
 Together with the team, we participated in the following hackathons:
+* (ML) Nuclear IT Hack - :2nd_place_medal: 2nd place. (Spring 2026) - Raman spectra classification (Multiple Instance Learning + Gated Attention + Integrated Gradients) - [repository](https://github.com/dkoshenkov/deeppick_mephi_2026)
 * (ML) Digital Department Hackathon (MIPT) - :3rd_place_medal: 3rd place. (Autumn 2024) - Parsing + cluserization.
 * (ML) TatneftHack (August 2024) - participant - Detection, clustering, tracking and identification by video
 * (ML) Leaders of Digital International competition (Цифровой прорыв.Международный этап) - :2nd_place_medal: 2nd place. (Autumn 2023) - Processing citizens' appeals (backend + frontend + NER model + three classification models (F1-weighted score is 0.68, best - 0.73)) - [repository](https://github.com/renshs/DeepPick-Flask)
